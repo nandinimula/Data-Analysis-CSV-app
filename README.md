@@ -10,31 +10,27 @@ Sales Data Analysis Using Pandas
 - Google Colab
 
 3) Project Structure:
+   Day-5 Folder - Outputs Folder - sales_analysis.ipynb File
 
 
-4) Features:
+5) Features:
    
-1. Loads sales data from a CSV file (sample data created automatically in notebook).
-2. Groups sales by **Region** and **Product**.
-3. Calculates total sales for each category.
-4. Visualizes results using **bar charts**.
+- Loads sales data from a CSV file (sample data created automatically in notebook).
+- Groups sales by **Region** and **Product**.
+- Calculates total sales for each category.
+- Visualizes results using **bar charts**.
 
 5) How to Run in Google Colab:
    
-1. Open the notebook in Google Colab.
-2. Run all cells:
+- Open the notebook in Google Colab.
+- Run all cells:
    - Installs dependencies.
    - Creates sample sales data.
    - Performs analysis and generates charts.
-3. View printed outputs and charts directly in the notebook.
+- View printed outputs and charts directly in the notebook.
 
-6) Sample Output:
+- Sample Output:
+    - Total Sales by Region - ![Sales by Region](sales_by_region.png)
+    - Total Sales by Product - ![Sales by Product](sales_by_product.png)
 
-- Total Sales by Region - ![Sales by Region](sales_by_region.png)
-- Total Sales by Product - ![Sales by Product](sales_by_product.png)
-
-7) Insights:
-- **East** region has the highest total sales.
-- **Shampoo** is the best-selling product.
-- Sales are fairly well-distributed across all products and regions.
 
